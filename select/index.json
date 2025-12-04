@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "にっこり^^調査隊のテーマ",
+  "base_artist": "ワンダーランズ×ショウタイム",
+  "createdAt": "2025-12-04T08:34:22.768423Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "にっこり^^調査隊のテーマ (feat. 鏡音リン&鏡音レン)",
+      "artist": "Wonderful★opportunity!",
+      "has_synced": true,
+      "path": "select/01_にっこり^^調査隊のテーマ_(feat._鏡音リン&鏡音レン)_Wonderful★opportunity!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "にっこり^^調査隊のテーマ",
+      "artist": "WONDERFUL★OPPORTUNITY! feat. 鏡音リン & 鏡音レン",
+      "has_synced": true,
+      "path": "select/02_にっこり^^調査隊のテーマ_WONDERFUL★OPPORTUNITY!_feat._鏡音リン_&_鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "にっこり^^調査隊のテーマ",
+      "artist": "Wonderful★opportunity!, 鏡音リン, 鏡音レン",
+      "has_synced": true,
+      "path": "select/03_にっこり^^調査隊のテーマ_Wonderful★opportunity!,_鏡音リン,_鏡音レン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ニッコリ^^調査隊のテーマ",
+      "artist": "ワンダーランズ×ショウタイム × 鏡音レン × 鏡音リン",
+      "has_synced": false,
+      "path": "select/pl_01_ニッコリ^^調査隊のテーマ_ワンダーランズ×ショウタイム_×_鏡音レン_×_鏡音リン.txt"
+    }
+  ]
+}
